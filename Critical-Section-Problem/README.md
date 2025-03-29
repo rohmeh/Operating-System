@@ -73,8 +73,8 @@ This problem implements the **m-producer n-consumer problem** using a shared cir
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo-link.git
-   cd your-repo-directory
+   git clone https://github.com/rohmeh/Operating-System.git
+   cd Operating-System
    ```
 
 2. Compile the desired program:
